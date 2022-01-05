@@ -35,10 +35,10 @@ public class TV {
 		this.volume = volume;
 	}
 	public void powerOn() {
-		System.out.println(producer+"TV Àü¿ø ÄÑÁü.");
+		System.out.println(producer+" TV Àü¿ø ÄÑÁü.");
 	}
 	public void powerOff() {
-		System.out.println(producer+"TV Àü¿ø ²¨Áü.");
+		System.out.println(producer+" TV Àü¿ø ²¨Áü.");
 	}
 	public void upChannel() {
 		channel++;
